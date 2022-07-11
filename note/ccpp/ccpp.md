@@ -297,6 +297,9 @@ int main(){
       
     };
 ```
-![](pic/Screenshot%20from%202022-07-11%2016-24-26.png)
 ![](pic/Screenshot%20from%202022-07-11%2016-20-36.png)
+
+> C 和指针 10.5 位段
+
+![](pic/Screenshot%20from%202022-07-11%2016-24-26.png)
 ![](pic/Screenshot%20from%202022-07-11%2016-22-41.png)
