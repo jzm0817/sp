@@ -26,7 +26,7 @@ int main() {
     a.pop_back();     // remove last element (but do not return it)
     assert(a.size() == 4);
 
-    bool e = a.empty(); // return true iff `size() == 0`
+    bool e = a.empty(); // return true if `size() == 0`
     assert(!e);
 
     // Print vector contents
